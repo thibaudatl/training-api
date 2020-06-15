@@ -1,0 +1,13 @@
+{
+  "autoload": {
+    "psr-4": {"": "code-correction/"}
+  },
+  "require": {
+    "akeneo/api-php-client": "^5.0",
+    "php-http/guzzle6-adapter": "^2.0",
+    "http-interop/http-factory-guzzle": "^1.0",
+    "akeneo/api-php-client-ee": "^5.0",
+    "symfony/console": "^5.0",
+    "box/spout": "^3.1"
+  }
+}
