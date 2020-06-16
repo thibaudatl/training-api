@@ -1,0 +1,143 @@
+[{
+  "code": "tshirtvneck",
+  "family": "clothing",
+  "family_variant": "clothing_size",
+  "parent": null,
+  "categories": [
+    "clothes"
+  ],
+  "values": {
+    "color": [
+      {
+        "locale": null,
+        "scope": null,
+        "data": "black"
+      }
+    ],
+    "brand": [
+      {
+        "locale": null,
+        "scope": null,
+        "data": "akeneo"
+      }
+    ],
+    "collection": [
+      {
+        "locale": null,
+        "scope": null,
+        "data": [
+          "spring_2016"
+        ]
+      }
+    ],
+    "price": [
+      {
+        "locale": null,
+        "scope": null,
+        "data": [
+          {
+            "amount": "36.00",
+            "currency": "EUR"
+          },
+          {
+            "amount": "30.00",
+            "currency": "USD"
+          }
+        ]
+      }
+    ],
+    "name": [
+      {
+        "locale": null,
+        "scope": null,
+        "data": "Vneck 2350"
+      }
+    ],
+    "variation_name": [
+      {
+        "locale": "en_US",
+        "scope": null,
+        "data": "Vneck 2350"
+      }
+    ],
+    "description": [
+      {
+        "locale": "en_US",
+        "scope": "ecommerce",
+        "data": "My beautifuuf tshirt"
+      }
+    ]
+  }
+},
+  {
+    "code": "tshirtvneck",
+    "family": "clothing",
+    "family_variant": "clothing_size",
+    "parent": null,
+    "categories": [
+      "clothes"
+    ],
+    "values": {
+      "color": [
+        {
+          "locale": null,
+          "scope": null,
+          "data": "black"
+        }
+      ],
+      "brand": [
+        {
+          "locale": null,
+          "scope": null,
+          "data": "akeneo"
+        }
+      ],
+      "collection": [
+        {
+          "locale": null,
+          "scope": null,
+          "data": [
+            "spring_2016"
+          ]
+        }
+      ],
+      "price": [
+        {
+          "locale": null,
+          "scope": null,
+          "data": [
+            {
+              "amount": "36.00",
+              "currency": "EUR"
+            },
+            {
+              "amount": "30.00",
+              "currency": "USD"
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "locale": null,
+          "scope": null,
+          "data": "Vneck 2350"
+        }
+      ],
+      "variation_name": [
+        {
+          "locale": "en_US",
+          "scope": null,
+          "data": "Vneck 2350"
+        }
+      ],
+      "description": [
+        {
+          "locale": "en_US",
+          "scope": "ecommerce",
+          "data": "My beautifuuf tshirt"
+        }
+      ]
+    }
+  }
+]
