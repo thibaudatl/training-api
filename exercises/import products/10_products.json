@@ -1,0 +1,742 @@
+[
+  {
+    "identifier": "15554974",
+    "enabled": true,
+    "family": "webcams",
+    "categories": [
+      "cameras_sales",
+      "logitech",
+      "webcams"
+    ],
+    "groups": [],
+    "parent": null,
+    "values": {
+      "maximum_video_resolution": [
+        {
+          "locale": null,
+          "scope": null,
+          "data": "640_x_480"
+        }
+      ],
+      "name": [
+        {
+          "locale": null,
+          "scope": null,
+          "data": "Logitech C170"
+        }
+      ],
+      "total_megapixels": [
+        {
+          "locale": null,
+          "scope": null,
+          "data": "5"
+        }
+      ],
+      "description": [
+        {
+          "locale": "en_US",
+          "scope": "print",
+          "data": "<b>The easy way to start video calling and send pics.</b>\\n\\n<b>Smoother. Sharper. Richer. Clearer.</b>\\nLogitech Fluid Crystal™ Technology. It’s what makes a Logitech webcam better. It’s smoother video, sharper pictures, richer colors and clearer sound in real-world conditions.\\n\\n\\n<b>Plug and play</b>\\nThe simple setup will have you video calling your favorite people in no time—on most major IMs.\\n\\n<b>The real you</b>\\nYour loved ones will see you in natural color when you talk to them, or you can take photos to share later.\\n\\n<b>Speak out</b>\\nYou can be heard loud and clear thanks to a built-in microphone that reduces background noise.\\n\\nWith plug-and-play setup, VGA-quality video and a built-in mic, this webcam is the easy way to start video calling and send beautiful, high-resolution photos.\\n\\n<b>Plug-and-play setup, easy to use</b>\\nWith simple plug-and-play setup, you’ll be making video calls in no time on most major IMs.\\n\\n<b>Clear video calls</b>\\nWith your webcam’s VGA sensor, the people you care about will see you in natural color.\\n\\n<b>5-megapixel photos</b>\\nYou can take beautiful, high-resolution snapshots up to 5 megapixels (software enhanced).\\n\\n<b>Built-in mic with RightSound™</b>\\nIt gives you clear conversations without annoying background noise.\\n\\n<b>XVGA video recording</b>\\nRecord lively, colorful videos in XVGA (1024 x 768) resolution and share them with friends, family and the world on Facebook®, YouTube®, Twitter™ or your blog.\\n\\n<b>Universal clip</b>\\nYou can attach your webcam securely to a laptop or LCD monitor, or sit it on a shelf or desk."
+        }
+      ],
+      "release_date": [
+        {
+          "locale": null,
+          "scope": "ecommerce",
+          "data": "2012-09-13T00:00:00+00:00"
+        }
+      ]
+    },
+    "associations": {
+      "PACK": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      },
+      "UPSELL": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      },
+      "X_SELL": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      },
+      "SUBSTITUTION": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      }
+    },
+    "metadata": {
+      "workflow_status": "working_copy"
+    }
+  },
+  {
+    "identifier": "15554974",
+    "enabled": true,
+    "family": "webcams",
+    "categories": [
+      "cameras_sales",
+      "logitech",
+      "webcams"
+    ],
+    "groups": [],
+    "parent": null,
+    "values": {
+      "maximum_video_resolution": [
+        {
+          "locale": null,
+          "scope": null,
+          "data": "640_x_480"
+        }
+      ],
+      "name": [
+        {
+          "locale": null,
+          "scope": null,
+          "data": "Logitech C170"
+        }
+      ],
+      "total_megapixels": [
+        {
+          "locale": null,
+          "scope": null,
+          "data": "5"
+        }
+      ],
+      "description": [
+        {
+          "locale": "en_US",
+          "scope": "print",
+          "data": "<b>The easy way to start video calling and send pics.</b>\\n\\n<b>Smoother. Sharper. Richer. Clearer.</b>\\nLogitech Fluid Crystal™ Technology. It’s what makes a Logitech webcam better. It’s smoother video, sharper pictures, richer colors and clearer sound in real-world conditions.\\n\\n\\n<b>Plug and play</b>\\nThe simple setup will have you video calling your favorite people in no time—on most major IMs.\\n\\n<b>The real you</b>\\nYour loved ones will see you in natural color when you talk to them, or you can take photos to share later.\\n\\n<b>Speak out</b>\\nYou can be heard loud and clear thanks to a built-in microphone that reduces background noise.\\n\\nWith plug-and-play setup, VGA-quality video and a built-in mic, this webcam is the easy way to start video calling and send beautiful, high-resolution photos.\\n\\n<b>Plug-and-play setup, easy to use</b>\\nWith simple plug-and-play setup, you’ll be making video calls in no time on most major IMs.\\n\\n<b>Clear video calls</b>\\nWith your webcam’s VGA sensor, the people you care about will see you in natural color.\\n\\n<b>5-megapixel photos</b>\\nYou can take beautiful, high-resolution snapshots up to 5 megapixels (software enhanced).\\n\\n<b>Built-in mic with RightSound™</b>\\nIt gives you clear conversations without annoying background noise.\\n\\n<b>XVGA video recording</b>\\nRecord lively, colorful videos in XVGA (1024 x 768) resolution and share them with friends, family and the world on Facebook®, YouTube®, Twitter™ or your blog.\\n\\n<b>Universal clip</b>\\nYou can attach your webcam securely to a laptop or LCD monitor, or sit it on a shelf or desk."
+        }
+      ],
+      "release_date": [
+        {
+          "locale": null,
+          "scope": "ecommerce",
+          "data": "2012-09-13T00:00:00+00:00"
+        }
+      ]
+    },
+    "associations": {
+      "PACK": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      },
+      "UPSELL": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      },
+      "X_SELL": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      },
+      "SUBSTITUTION": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      }
+    },
+    "metadata": {
+      "workflow_status": "working_copy"
+    }
+  },
+  {
+    "identifier": "15554974",
+    "enabled": true,
+    "family": "webcams",
+    "categories": [
+      "cameras_sales",
+      "logitech",
+      "webcams"
+    ],
+    "groups": [],
+    "parent": null,
+    "values": {
+      "maximum_video_resolution": [
+        {
+          "locale": null,
+          "scope": null,
+          "data": "640_x_480"
+        }
+      ],
+      "name": [
+        {
+          "locale": null,
+          "scope": null,
+          "data": "Logitech C170"
+        }
+      ],
+      "total_megapixels": [
+        {
+          "locale": null,
+          "scope": null,
+          "data": "5"
+        }
+      ],
+      "description": [
+        {
+          "locale": "en_US",
+          "scope": "print",
+          "data": "<b>The easy way to start video calling and send pics.</b>\\n\\n<b>Smoother. Sharper. Richer. Clearer.</b>\\nLogitech Fluid Crystal™ Technology. It’s what makes a Logitech webcam better. It’s smoother video, sharper pictures, richer colors and clearer sound in real-world conditions.\\n\\n\\n<b>Plug and play</b>\\nThe simple setup will have you video calling your favorite people in no time—on most major IMs.\\n\\n<b>The real you</b>\\nYour loved ones will see you in natural color when you talk to them, or you can take photos to share later.\\n\\n<b>Speak out</b>\\nYou can be heard loud and clear thanks to a built-in microphone that reduces background noise.\\n\\nWith plug-and-play setup, VGA-quality video and a built-in mic, this webcam is the easy way to start video calling and send beautiful, high-resolution photos.\\n\\n<b>Plug-and-play setup, easy to use</b>\\nWith simple plug-and-play setup, you’ll be making video calls in no time on most major IMs.\\n\\n<b>Clear video calls</b>\\nWith your webcam’s VGA sensor, the people you care about will see you in natural color.\\n\\n<b>5-megapixel photos</b>\\nYou can take beautiful, high-resolution snapshots up to 5 megapixels (software enhanced).\\n\\n<b>Built-in mic with RightSound™</b>\\nIt gives you clear conversations without annoying background noise.\\n\\n<b>XVGA video recording</b>\\nRecord lively, colorful videos in XVGA (1024 x 768) resolution and share them with friends, family and the world on Facebook®, YouTube®, Twitter™ or your blog.\\n\\n<b>Universal clip</b>\\nYou can attach your webcam securely to a laptop or LCD monitor, or sit it on a shelf or desk."
+        }
+      ],
+      "release_date": [
+        {
+          "locale": null,
+          "scope": "ecommerce",
+          "data": "2012-09-13T00:00:00+00:00"
+        }
+      ]
+    },
+    "associations": {
+      "PACK": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      },
+      "UPSELL": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      },
+      "X_SELL": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      },
+      "SUBSTITUTION": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      }
+    },
+    "metadata": {
+      "workflow_status": "working_copy"
+    }
+  },
+  {
+    "identifier": "15554974",
+    "enabled": true,
+    "family": "webcams",
+    "categories": [
+      "cameras_sales",
+      "logitech",
+      "webcams"
+    ],
+    "groups": [],
+    "parent": null,
+    "values": {
+      "maximum_video_resolution": [
+        {
+          "locale": null,
+          "scope": null,
+          "data": "640_x_480"
+        }
+      ],
+      "name": [
+        {
+          "locale": null,
+          "scope": null,
+          "data": "Logitech C170"
+        }
+      ],
+      "total_megapixels": [
+        {
+          "locale": null,
+          "scope": null,
+          "data": "5"
+        }
+      ],
+      "description": [
+        {
+          "locale": "en_US",
+          "scope": "print",
+          "data": "<b>The easy way to start video calling and send pics.</b>\\n\\n<b>Smoother. Sharper. Richer. Clearer.</b>\\nLogitech Fluid Crystal™ Technology. It’s what makes a Logitech webcam better. It’s smoother video, sharper pictures, richer colors and clearer sound in real-world conditions.\\n\\n\\n<b>Plug and play</b>\\nThe simple setup will have you video calling your favorite people in no time—on most major IMs.\\n\\n<b>The real you</b>\\nYour loved ones will see you in natural color when you talk to them, or you can take photos to share later.\\n\\n<b>Speak out</b>\\nYou can be heard loud and clear thanks to a built-in microphone that reduces background noise.\\n\\nWith plug-and-play setup, VGA-quality video and a built-in mic, this webcam is the easy way to start video calling and send beautiful, high-resolution photos.\\n\\n<b>Plug-and-play setup, easy to use</b>\\nWith simple plug-and-play setup, you’ll be making video calls in no time on most major IMs.\\n\\n<b>Clear video calls</b>\\nWith your webcam’s VGA sensor, the people you care about will see you in natural color.\\n\\n<b>5-megapixel photos</b>\\nYou can take beautiful, high-resolution snapshots up to 5 megapixels (software enhanced).\\n\\n<b>Built-in mic with RightSound™</b>\\nIt gives you clear conversations without annoying background noise.\\n\\n<b>XVGA video recording</b>\\nRecord lively, colorful videos in XVGA (1024 x 768) resolution and share them with friends, family and the world on Facebook®, YouTube®, Twitter™ or your blog.\\n\\n<b>Universal clip</b>\\nYou can attach your webcam securely to a laptop or LCD monitor, or sit it on a shelf or desk."
+        }
+      ],
+      "release_date": [
+        {
+          "locale": null,
+          "scope": "ecommerce",
+          "data": "2012-09-13T00:00:00+00:00"
+        }
+      ]
+    },
+    "associations": {
+      "PACK": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      },
+      "UPSELL": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      },
+      "X_SELL": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      },
+      "SUBSTITUTION": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      }
+    },
+    "metadata": {
+      "workflow_status": "working_copy"
+    }
+  },
+  {
+    "identifier": "15554974",
+    "enabled": true,
+    "family": "webcams",
+    "categories": [
+      "cameras_sales",
+      "logitech",
+      "webcams"
+    ],
+    "groups": [],
+    "parent": null,
+    "values": {
+      "maximum_video_resolution": [
+        {
+          "locale": null,
+          "scope": null,
+          "data": "640_x_480"
+        }
+      ],
+      "name": [
+        {
+          "locale": null,
+          "scope": null,
+          "data": "Logitech C170"
+        }
+      ],
+      "total_megapixels": [
+        {
+          "locale": null,
+          "scope": null,
+          "data": "5"
+        }
+      ],
+      "description": [
+        {
+          "locale": "en_US",
+          "scope": "print",
+          "data": "<b>The easy way to start video calling and send pics.</b>\\n\\n<b>Smoother. Sharper. Richer. Clearer.</b>\\nLogitech Fluid Crystal™ Technology. It’s what makes a Logitech webcam better. It’s smoother video, sharper pictures, richer colors and clearer sound in real-world conditions.\\n\\n\\n<b>Plug and play</b>\\nThe simple setup will have you video calling your favorite people in no time—on most major IMs.\\n\\n<b>The real you</b>\\nYour loved ones will see you in natural color when you talk to them, or you can take photos to share later.\\n\\n<b>Speak out</b>\\nYou can be heard loud and clear thanks to a built-in microphone that reduces background noise.\\n\\nWith plug-and-play setup, VGA-quality video and a built-in mic, this webcam is the easy way to start video calling and send beautiful, high-resolution photos.\\n\\n<b>Plug-and-play setup, easy to use</b>\\nWith simple plug-and-play setup, you’ll be making video calls in no time on most major IMs.\\n\\n<b>Clear video calls</b>\\nWith your webcam’s VGA sensor, the people you care about will see you in natural color.\\n\\n<b>5-megapixel photos</b>\\nYou can take beautiful, high-resolution snapshots up to 5 megapixels (software enhanced).\\n\\n<b>Built-in mic with RightSound™</b>\\nIt gives you clear conversations without annoying background noise.\\n\\n<b>XVGA video recording</b>\\nRecord lively, colorful videos in XVGA (1024 x 768) resolution and share them with friends, family and the world on Facebook®, YouTube®, Twitter™ or your blog.\\n\\n<b>Universal clip</b>\\nYou can attach your webcam securely to a laptop or LCD monitor, or sit it on a shelf or desk."
+        }
+      ],
+      "release_date": [
+        {
+          "locale": null,
+          "scope": "ecommerce",
+          "data": "2012-09-13T00:00:00+00:00"
+        }
+      ]
+    },
+    "associations": {
+      "PACK": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      },
+      "UPSELL": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      },
+      "X_SELL": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      },
+      "SUBSTITUTION": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      }
+    },
+    "metadata": {
+      "workflow_status": "working_copy"
+    }
+  },
+  {
+    "identifier": "15554974",
+    "enabled": true,
+    "family": "webcams",
+    "categories": [
+      "cameras_sales",
+      "logitech",
+      "webcams"
+    ],
+    "groups": [],
+    "parent": null,
+    "values": {
+      "maximum_video_resolution": [
+        {
+          "locale": null,
+          "scope": null,
+          "data": "640_x_480"
+        }
+      ],
+      "name": [
+        {
+          "locale": null,
+          "scope": null,
+          "data": "Logitech C170"
+        }
+      ],
+      "total_megapixels": [
+        {
+          "locale": null,
+          "scope": null,
+          "data": "5"
+        }
+      ],
+      "description": [
+        {
+          "locale": "en_US",
+          "scope": "print",
+          "data": "<b>The easy way to start video calling and send pics.</b>\\n\\n<b>Smoother. Sharper. Richer. Clearer.</b>\\nLogitech Fluid Crystal™ Technology. It’s what makes a Logitech webcam better. It’s smoother video, sharper pictures, richer colors and clearer sound in real-world conditions.\\n\\n\\n<b>Plug and play</b>\\nThe simple setup will have you video calling your favorite people in no time—on most major IMs.\\n\\n<b>The real you</b>\\nYour loved ones will see you in natural color when you talk to them, or you can take photos to share later.\\n\\n<b>Speak out</b>\\nYou can be heard loud and clear thanks to a built-in microphone that reduces background noise.\\n\\nWith plug-and-play setup, VGA-quality video and a built-in mic, this webcam is the easy way to start video calling and send beautiful, high-resolution photos.\\n\\n<b>Plug-and-play setup, easy to use</b>\\nWith simple plug-and-play setup, you’ll be making video calls in no time on most major IMs.\\n\\n<b>Clear video calls</b>\\nWith your webcam’s VGA sensor, the people you care about will see you in natural color.\\n\\n<b>5-megapixel photos</b>\\nYou can take beautiful, high-resolution snapshots up to 5 megapixels (software enhanced).\\n\\n<b>Built-in mic with RightSound™</b>\\nIt gives you clear conversations without annoying background noise.\\n\\n<b>XVGA video recording</b>\\nRecord lively, colorful videos in XVGA (1024 x 768) resolution and share them with friends, family and the world on Facebook®, YouTube®, Twitter™ or your blog.\\n\\n<b>Universal clip</b>\\nYou can attach your webcam securely to a laptop or LCD monitor, or sit it on a shelf or desk."
+        }
+      ],
+      "release_date": [
+        {
+          "locale": null,
+          "scope": "ecommerce",
+          "data": "2012-09-13T00:00:00+00:00"
+        }
+      ]
+    },
+    "associations": {
+      "PACK": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      },
+      "UPSELL": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      },
+      "X_SELL": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      },
+      "SUBSTITUTION": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      }
+    },
+    "metadata": {
+      "workflow_status": "working_copy"
+    }
+  },
+  {
+    "identifier": "15554974",
+    "enabled": true,
+    "family": "webcams",
+    "categories": [
+      "cameras_sales",
+      "logitech",
+      "webcams"
+    ],
+    "groups": [],
+    "parent": null,
+    "values": {
+      "maximum_video_resolution": [
+        {
+          "locale": null,
+          "scope": null,
+          "data": "640_x_480"
+        }
+      ],
+      "name": [
+        {
+          "locale": null,
+          "scope": null,
+          "data": "Logitech C170"
+        }
+      ],
+      "total_megapixels": [
+        {
+          "locale": null,
+          "scope": null,
+          "data": "5"
+        }
+      ],
+      "description": [
+        {
+          "locale": "en_US",
+          "scope": "print",
+          "data": "<b>The easy way to start video calling and send pics.</b>\\n\\n<b>Smoother. Sharper. Richer. Clearer.</b>\\nLogitech Fluid Crystal™ Technology. It’s what makes a Logitech webcam better. It’s smoother video, sharper pictures, richer colors and clearer sound in real-world conditions.\\n\\n\\n<b>Plug and play</b>\\nThe simple setup will have you video calling your favorite people in no time—on most major IMs.\\n\\n<b>The real you</b>\\nYour loved ones will see you in natural color when you talk to them, or you can take photos to share later.\\n\\n<b>Speak out</b>\\nYou can be heard loud and clear thanks to a built-in microphone that reduces background noise.\\n\\nWith plug-and-play setup, VGA-quality video and a built-in mic, this webcam is the easy way to start video calling and send beautiful, high-resolution photos.\\n\\n<b>Plug-and-play setup, easy to use</b>\\nWith simple plug-and-play setup, you’ll be making video calls in no time on most major IMs.\\n\\n<b>Clear video calls</b>\\nWith your webcam’s VGA sensor, the people you care about will see you in natural color.\\n\\n<b>5-megapixel photos</b>\\nYou can take beautiful, high-resolution snapshots up to 5 megapixels (software enhanced).\\n\\n<b>Built-in mic with RightSound™</b>\\nIt gives you clear conversations without annoying background noise.\\n\\n<b>XVGA video recording</b>\\nRecord lively, colorful videos in XVGA (1024 x 768) resolution and share them with friends, family and the world on Facebook®, YouTube®, Twitter™ or your blog.\\n\\n<b>Universal clip</b>\\nYou can attach your webcam securely to a laptop or LCD monitor, or sit it on a shelf or desk."
+        }
+      ],
+      "release_date": [
+        {
+          "locale": null,
+          "scope": "ecommerce",
+          "data": "2012-09-13T00:00:00+00:00"
+        }
+      ]
+    },
+    "associations": {
+      "PACK": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      },
+      "UPSELL": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      },
+      "X_SELL": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      },
+      "SUBSTITUTION": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      }
+    },
+    "metadata": {
+      "workflow_status": "working_copy"
+    }
+  },
+  {
+    "identifier": "15554974",
+    "enabled": true,
+    "family": "webcams",
+    "categories": [
+      "cameras_sales",
+      "logitech",
+      "webcams"
+    ],
+    "groups": [],
+    "parent": null,
+    "values": {
+      "maximum_video_resolution": [
+        {
+          "locale": null,
+          "scope": null,
+          "data": "640_x_480"
+        }
+      ],
+      "name": [
+        {
+          "locale": null,
+          "scope": null,
+          "data": "Logitech C170"
+        }
+      ],
+      "total_megapixels": [
+        {
+          "locale": null,
+          "scope": null,
+          "data": "5"
+        }
+      ],
+      "description": [
+        {
+          "locale": "en_US",
+          "scope": "print",
+          "data": "<b>The easy way to start video calling and send pics.</b>\\n\\n<b>Smoother. Sharper. Richer. Clearer.</b>\\nLogitech Fluid Crystal™ Technology. It’s what makes a Logitech webcam better. It’s smoother video, sharper pictures, richer colors and clearer sound in real-world conditions.\\n\\n\\n<b>Plug and play</b>\\nThe simple setup will have you video calling your favorite people in no time—on most major IMs.\\n\\n<b>The real you</b>\\nYour loved ones will see you in natural color when you talk to them, or you can take photos to share later.\\n\\n<b>Speak out</b>\\nYou can be heard loud and clear thanks to a built-in microphone that reduces background noise.\\n\\nWith plug-and-play setup, VGA-quality video and a built-in mic, this webcam is the easy way to start video calling and send beautiful, high-resolution photos.\\n\\n<b>Plug-and-play setup, easy to use</b>\\nWith simple plug-and-play setup, you’ll be making video calls in no time on most major IMs.\\n\\n<b>Clear video calls</b>\\nWith your webcam’s VGA sensor, the people you care about will see you in natural color.\\n\\n<b>5-megapixel photos</b>\\nYou can take beautiful, high-resolution snapshots up to 5 megapixels (software enhanced).\\n\\n<b>Built-in mic with RightSound™</b>\\nIt gives you clear conversations without annoying background noise.\\n\\n<b>XVGA video recording</b>\\nRecord lively, colorful videos in XVGA (1024 x 768) resolution and share them with friends, family and the world on Facebook®, YouTube®, Twitter™ or your blog.\\n\\n<b>Universal clip</b>\\nYou can attach your webcam securely to a laptop or LCD monitor, or sit it on a shelf or desk."
+        }
+      ],
+      "release_date": [
+        {
+          "locale": null,
+          "scope": "ecommerce",
+          "data": "2012-09-13T00:00:00+00:00"
+        }
+      ]
+    },
+    "associations": {
+      "PACK": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      },
+      "UPSELL": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      },
+      "X_SELL": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      },
+      "SUBSTITUTION": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      }
+    },
+    "metadata": {
+      "workflow_status": "working_copy"
+    }
+  },
+  {
+    "identifier": "15554974",
+    "enabled": true,
+    "family": "webcams",
+    "categories": [
+      "cameras_sales",
+      "logitech",
+      "webcams"
+    ],
+    "groups": [],
+    "parent": null,
+    "values": {
+      "maximum_video_resolution": [
+        {
+          "locale": null,
+          "scope": null,
+          "data": "640_x_480"
+        }
+      ],
+      "name": [
+        {
+          "locale": null,
+          "scope": null,
+          "data": "Logitech C170"
+        }
+      ],
+      "total_megapixels": [
+        {
+          "locale": null,
+          "scope": null,
+          "data": "5"
+        }
+      ],
+      "description": [
+        {
+          "locale": "en_US",
+          "scope": "print",
+          "data": "<b>The easy way to start video calling and send pics.</b>\\n\\n<b>Smoother. Sharper. Richer. Clearer.</b>\\nLogitech Fluid Crystal™ Technology. It’s what makes a Logitech webcam better. It’s smoother video, sharper pictures, richer colors and clearer sound in real-world conditions.\\n\\n\\n<b>Plug and play</b>\\nThe simple setup will have you video calling your favorite people in no time—on most major IMs.\\n\\n<b>The real you</b>\\nYour loved ones will see you in natural color when you talk to them, or you can take photos to share later.\\n\\n<b>Speak out</b>\\nYou can be heard loud and clear thanks to a built-in microphone that reduces background noise.\\n\\nWith plug-and-play setup, VGA-quality video and a built-in mic, this webcam is the easy way to start video calling and send beautiful, high-resolution photos.\\n\\n<b>Plug-and-play setup, easy to use</b>\\nWith simple plug-and-play setup, you’ll be making video calls in no time on most major IMs.\\n\\n<b>Clear video calls</b>\\nWith your webcam’s VGA sensor, the people you care about will see you in natural color.\\n\\n<b>5-megapixel photos</b>\\nYou can take beautiful, high-resolution snapshots up to 5 megapixels (software enhanced).\\n\\n<b>Built-in mic with RightSound™</b>\\nIt gives you clear conversations without annoying background noise.\\n\\n<b>XVGA video recording</b>\\nRecord lively, colorful videos in XVGA (1024 x 768) resolution and share them with friends, family and the world on Facebook®, YouTube®, Twitter™ or your blog.\\n\\n<b>Universal clip</b>\\nYou can attach your webcam securely to a laptop or LCD monitor, or sit it on a shelf or desk."
+        }
+      ],
+      "release_date": [
+        {
+          "locale": null,
+          "scope": "ecommerce",
+          "data": "2012-09-13T00:00:00+00:00"
+        }
+      ]
+    },
+    "associations": {
+      "PACK": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      },
+      "UPSELL": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      },
+      "X_SELL": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      },
+      "SUBSTITUTION": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      }
+    },
+    "metadata": {
+      "workflow_status": "working_copy"
+    }
+  },
+  {
+    "identifier": "15554974",
+    "enabled": true,
+    "family": "webcams",
+    "categories": [
+      "cameras_sales",
+      "logitech",
+      "webcams"
+    ],
+    "groups": [],
+    "parent": null,
+    "values": {
+      "maximum_video_resolution": [
+        {
+          "locale": null,
+          "scope": null,
+          "data": "640_x_480"
+        }
+      ],
+      "name": [
+        {
+          "locale": null,
+          "scope": null,
+          "data": "Logitech C170"
+        }
+      ],
+      "total_megapixels": [
+        {
+          "locale": null,
+          "scope": null,
+          "data": "5"
+        }
+      ],
+      "description": [
+        {
+          "locale": "en_US",
+          "scope": "print",
+          "data": "<b>The easy way to start video calling and send pics.</b>\\n\\n<b>Smoother. Sharper. Richer. Clearer.</b>\\nLogitech Fluid Crystal™ Technology. It’s what makes a Logitech webcam better. It’s smoother video, sharper pictures, richer colors and clearer sound in real-world conditions.\\n\\n\\n<b>Plug and play</b>\\nThe simple setup will have you video calling your favorite people in no time—on most major IMs.\\n\\n<b>The real you</b>\\nYour loved ones will see you in natural color when you talk to them, or you can take photos to share later.\\n\\n<b>Speak out</b>\\nYou can be heard loud and clear thanks to a built-in microphone that reduces background noise.\\n\\nWith plug-and-play setup, VGA-quality video and a built-in mic, this webcam is the easy way to start video calling and send beautiful, high-resolution photos.\\n\\n<b>Plug-and-play setup, easy to use</b>\\nWith simple plug-and-play setup, you’ll be making video calls in no time on most major IMs.\\n\\n<b>Clear video calls</b>\\nWith your webcam’s VGA sensor, the people you care about will see you in natural color.\\n\\n<b>5-megapixel photos</b>\\nYou can take beautiful, high-resolution snapshots up to 5 megapixels (software enhanced).\\n\\n<b>Built-in mic with RightSound™</b>\\nIt gives you clear conversations without annoying background noise.\\n\\n<b>XVGA video recording</b>\\nRecord lively, colorful videos in XVGA (1024 x 768) resolution and share them with friends, family and the world on Facebook®, YouTube®, Twitter™ or your blog.\\n\\n<b>Universal clip</b>\\nYou can attach your webcam securely to a laptop or LCD monitor, or sit it on a shelf or desk."
+        }
+      ],
+      "release_date": [
+        {
+          "locale": null,
+          "scope": "ecommerce",
+          "data": "2012-09-13T00:00:00+00:00"
+        }
+      ]
+    },
+    "associations": {
+      "PACK": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      },
+      "UPSELL": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      },
+      "X_SELL": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      },
+      "SUBSTITUTION": {
+        "products": [],
+        "product_models": [],
+        "groups": []
+      }
+    },
+    "metadata": {
+      "workflow_status": "working_copy"
+    }
+  }
+]
