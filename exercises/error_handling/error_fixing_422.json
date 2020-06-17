@@ -1,5 +1,5 @@
 {
-    "identifier": "AN_AMAZING_CAMCORDER",
+    "identifier": "leo",
     "enabled": 0,
     "family": "camcorders",
     "categories": [
@@ -101,6 +101,3 @@
         }
     }
 }
-
-
-{"identifier": "12830519", }
