@@ -2,7 +2,7 @@
 
 Let's lean about the new features of the Asset Manager 
 
-Here is a step by step process to create a product link rule, that will automatically link your uploaded assets to the products. This process has constraints, but used correctly, assigning products to assets can completely disapear from your workflow.
+Here is a step by step process to create a product link rule, that will automatically link your assets to the products. This process has constraints, but used correctly, assigning products to assets can completely disapear from your workflow.
 
 Link of this page: https://github.com/thibaudatl/training-api/blob/master/asset_exercise.md
 
