@@ -12,9 +12,8 @@ $client = $clientBuilder->buildAuthenticatedByPassword(
 
 $product = json_decode(file_get_contents('/srv/pim/exercises/import products/product.json'), true);
 
-
 try{
-    $products = $client->getProductApi()->upsert("", $product);
+    $response = $client->getProductApi()->upsertList($product);
 } catch (\Akeneo\Pim\ApiClient\Exception\UnprocessableEntityHttpException $e) {
     echo "Unprocessable\n";
     echo $e->getMessage();
@@ -36,3 +35,52 @@ try{
     }
 }
 
+
+
+try {
+    $client->getProductMediaFileApi()->create(
+        "/srv/pim/exercises/akeneo.png",
+        [
+            "identifier" => "JIM_TEST_UPSERT",
+         "attribute" => "leo_image",
+         "scope" => null,
+         "locale" => null
+        ]
+    );
+} catch (\Akeneo\Pim\ApiClient\Exception\UnprocessableEntityHttpException $e) {
+    echo "Unprocessable\n";
+    var_dump($e->getMessage());
+}
+
+// Part on Assets
+
+
+$mediaCodeComic = $client->getAssetMediaFileApi()->create("/srv/pim/exercises/akeneo.png");
+
+$dataAsset = [
+    "code" => "75YearOfComic",
+    "values" => [
+        "image" => [
+            [
+                "locale" => null,
+                "channel" => null,
+                "data" => $mediaCodeComic,
+            ]
+        ],
+        "typeOfBook" => [
+            [
+                "locale" => null,
+                "channel" => null,
+                "data" => "comics"
+            ]
+        ],
+        "nber_page" => [
+            [
+                "locale" => null,
+                "channel" => null,
+                "data" => "85"
+            ]
+        ]
+    ]
+];
+$client->getAssetManagerApi()->upsert("book", "75YearOfComic", $dataAsset);
