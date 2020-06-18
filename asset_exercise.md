@@ -162,8 +162,9 @@ Create an asset and associate it with a media: https://api.akeneo.com/api-refere
 Format of asset values: https://api.akeneo.com/concepts/asset-manager.html#focus-on-the-asset-values
 
 
-## WITH postman
-Use th collection endpoints
+## first WITH postman
+Use th collection endpoints and check the documentation for payloads to send
+
 
 ## with PHP API client
 use the
