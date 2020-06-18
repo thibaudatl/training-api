@@ -160,3 +160,36 @@ POST media: https://api.akeneo.com/api-reference.html#post_asset_media_files
 Create an asset and associate it with a media: https://api.akeneo.com/api-reference.html#patch_asset__code_
 
 Format of asset values: https://api.akeneo.com/concepts/asset-manager.html#focus-on-the-asset-values
+
+
+## WITH postman
+Use th collection endpoints
+
+## with PHP API client
+use the
+```
+$uRI_LOCATION = $client->getAssetMediaFileApi()->create("path/of/the/image");    # this method returns a string containing the header "Asset-media-file-code"
+```
+
+You can then format a JSON to create a new asset, using the method:
+
+```
+$client->getAssetManagerApi()->upsert("ASSET_FAMILY_CODE", "ASSET_CODE", JSON_ASSET_DATA);
+```
+
+Example of JSON_ASSET_DATA
+
+```
+$dataAsset = [
+    "code" => "YOUCODEHERE",
+    "values" => [
+        "image" => [
+            [
+                "locale" => null,
+                "channel" => null,
+                "data" => $uRI_LOCATION,
+            ]
+        ]
+    ]
+];
+```
