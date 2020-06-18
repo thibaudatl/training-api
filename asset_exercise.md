@@ -4,6 +4,8 @@ Let's lean about the new features of the Asset Manager
 
 Here is a step by step process to create a product link rule, that will automatically link your uploaded assets to the products. This process has constraints, but used correctly, assigning products to assets can completely disapear from your workflow.
 
+Link of this page: https://github.com/thibaudatl/training-api/blob/master/asset_exercise.md
+
 # Pre-reqs
 ## Asset family
 Create an asset family with you name in the code
@@ -136,5 +138,9 @@ Copy those lines in the "transformation" section.
 
 
 # Testing the product link rule
-Upload the image called "TODD-JSON-TEST.png" present in your "image" folder at the root of the working directory. You will have to MODIFY the code of this asset when uploading it.
+Upload the image called "TODD-JSON-TEST.png" (or however you renamed it) present in your "image" folder at the root of the working directory. You will have to MODIFY the code of this asset when uploading it.
 
+Make sure the name of the image is indeed a existing SKU on the environment, and that this SKU blongs to the product family that contains you asset collection attribute.
+
+
+# Upload an asset with the API
