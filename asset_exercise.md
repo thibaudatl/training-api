@@ -144,3 +144,18 @@ Make sure the name of the image is indeed a existing SKU on the environment, and
 
 
 # Upload an asset with the API
+## Let's create an asset with the API
+### Documentation explaning how to do it
+
+The creation of an asset and the upload of an image onto that asset is done in 2 calls with the Akeneo API
+The first call, we are uploading the image to the server and we retrieve a unique code in the response HEADERS (not in the body!!)
+The "Asset-media-file-code" response header will contain the specific URI where the image is. 
+
+We then use that Asset-media-file-code in the request to create the asset entity.  
+
+Read those 3 documentation links, you will find information on each call to make, as well as tips on data to pass to the API endpoint for the asset creation
+POST media: https://api.akeneo.com/api-reference.html#post_asset_media_files
+
+Create an asset and associate it with a media: https://api.akeneo.com/api-reference.html#patch_asset__code_
+
+Format of asset values: https://api.akeneo.com/concepts/asset-manager.html#focus-on-the-asset-values
