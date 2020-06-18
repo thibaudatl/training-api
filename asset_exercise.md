@@ -15,14 +15,16 @@ Create the following attributes on the asset family:
 
 ## Product Attribute
 Go to settings -> attributes
-Create an Asset collection attribute called "packshot_YOURNAME", and assign it to the asset family you chose earlier
+Create an Asset collection attribute called "PACKSHOT_YOURNAME", and assign it to the asset family you chose earlier
 
 Assign the "packshot_YOURNAME" attribute to the asset family you created (when scrolling down on the attribute creation page, you will see a dropdown)
 
-Open the product family page(Setting -> families) and add you newly created attribute "PACKSHOT_YOURNAME" to the "webcams" family. 
+Open the product family page (Setting -> families) and add you newly created attribute "PACKSHOT_YOURNAME" to the "webcams" family. 
 
-## Verify you have the image 
-Rename an image to the Product SKU of your choice that belongs to  and leave the extension of your image as is.
+## Verify you have an image to upload to the asset entity 
+In the folder images from your training-api github repo, you should find an image called "TODD-JSON-TEST.png"
+
+You are welcome to rename this image to another name. This name should be a SKU of a product belonging to the webcams family
 
 The Product SKU of your choice shoudl exist on the environment and if everything is setup correctly, your uploaded asset should be linked to that sku.
 
@@ -49,11 +51,7 @@ The regex:
 `(?:jpg|png|gif|jpeg)`  Only accept the following extensions: jpg, png, gif, jpeg
 
 
-
-### naming convention JSON
-The "property" parameter here can either be a "media file" attribute or the "code" of the asset
-
-Go to "EDIT" on your asset family & click the "Product Link Rule" tab
+Now, go to "EDIT" on your asset family & click the "Product Link Rule" tab
 
 Copy/paste the following JSON in the naming convention area 
 ```
@@ -74,6 +72,7 @@ Copy/paste the following JSON in the naming convention area
   - product_selections: filter on all products where the sku = sku_id provided in the asset attribute
   - "add" the asset to the "packshot" asset collection attribute
 
+CONTENT TO MODIFY: "attribute" parameter -> replace "packshot" with the actual code of the attribute you created earlier "packshot_YOURNAME"
 ```
 [
   {
@@ -88,7 +87,7 @@ Copy/paste the following JSON in the naming convention area
     ],
     "assign_assets_to": [
       {
-        "attribute": "packshot",
+        "attribute": "packshot_YOURNAME", 
         "locale": null,
         "channel": null,
         "mode": "add"
@@ -100,6 +99,7 @@ Copy/paste the following JSON in the naming convention area
 
 
 ## transformations
+Copy those lines in the "transformation" section.
 ```
 [
   {
