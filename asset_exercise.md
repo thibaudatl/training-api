@@ -15,11 +15,14 @@ Create the following attributes on the asset family:
 ## Product Attribute
 Go to settings -> attributes
 Create an Asset collection attribute called "packshot_YOURNAME", and assign it to the asset family you chose earlier
+
 Assign the "packshot_YOURNAME" attribute to the asset family you created (when scrolling down on the attribute creation page, you will see a dropdown)
+
 Open the product family page(Setting -> families) and add you newly created attribute "PACKSHOT_YOURNAME" to the "webcams" family. 
 
 ## Verify you have the image 
 Rename an image to the Product SKU of your choice that belongs to  and leave the extension of your image as is.
+
 The Product SKU of your choice shoudl exist on the environment and if everything is setup correctly, your uploaded asset should be linked to that sku.
 
 # Setting up the Product Link rule
