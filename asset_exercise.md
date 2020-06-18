@@ -54,6 +54,7 @@ The regex:
 
 
 Now, go to "EDIT" on your asset family & click the "Product Link Rule" tab
+*If there is an error when trying to save the rule, let me know*
 
 Copy/paste the following JSON in the naming convention area 
 ```
