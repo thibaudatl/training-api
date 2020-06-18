@@ -1,7 +1,8 @@
-# Assets Manager demo 4.0
+# Assets Manager 4.0
 
-How to demo the asset manager 4.0 new features
-We will demo the naming convention and product link rule features, as well as the transformation feature.
+Let's lean about the new features of the Asset Manager 
+
+Here is a step by step process to create a product link rule, that will automatically link your uploaded assets to the products. This process has constraints, but used correctly, assigning products to assets can completely disapear from your workflow.
 
 # Pre-reqs
 ## Asset family
@@ -31,11 +32,27 @@ The Product SKU of your choice shoudl exist on the environment and if everything
 ### Intro
 This feature extract data from the filename we upload and populates the attribute "sku_id" with our filename. 
 
+The "source" of the extraction : the asset attribute we inspect to extract data 
+```
+"source": {
+    "property": "media",      # this "property" parameter can either be a media file attribute or the "code" of the asset
+    "locale": null,
+    "channel": null
+  },
+  "pattern": "/(?P<sku_id>.*)\\.(?:jpg|png|gif|jpeg)/",       # pattern of extraction, using regular expression
+  "abort_asset_creation_on_error": true                       # do we abort the asset upload when the regex is not respected
+```
+
+The regex:
 `(?P<sku_id>.*)\\.`     save any character before the "." to a variable "sku_id"
 
 `(?:jpg|png|gif|jpeg)`  Only accept the following extensions: jpg, png, gif, jpeg
 
+
+
 ### naming convention JSON
+The "property" parameter here can either be a "media file" attribute or the "code" of the asset
+
 Go to "EDIT" on your asset family & click the "Product Link Rule" tab
 
 Copy/paste the following JSON in the naming convention area 
