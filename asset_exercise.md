@@ -30,7 +30,9 @@ The Product SKU of your choice shoudl exist on the environment and if everything
 ## Naming convention
 ### Intro
 This feature extract data from the filename we upload and populates the attribute "sku_id" with our filename. 
+
 `(?P<sku_id>.*)\\.`     save any character before the "." to a variable "sku_id"
+
 `(?:jpg|png|gif|jpeg)`  Only accept the following extensions: jpg, png, gif, jpeg
 
 ### naming convention JSON
@@ -79,9 +81,6 @@ Copy/paste the following JSON in the naming convention area
 ]
 ```
 
-# Testing the product link rule
-
-
 
 ## transformations
 ```
@@ -117,3 +116,8 @@ Copy/paste the following JSON in the naming convention area
   }
 ]
 ```
+
+
+# Testing the product link rule
+Upload the image called "TODD-JSON-TEST.png" present in your "image" folder at the root of the working directory. You will have to MODIFY the code of this asset when uploading it.
+
