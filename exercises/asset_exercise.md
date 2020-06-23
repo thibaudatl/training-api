@@ -39,7 +39,7 @@ This feature extract data from the filename we upload and populates the attribut
 The "source" of the extraction : the asset attribute we inspect to extract data 
 ```
 "source": {
-    "property": "media",      # this "property" parameter can either be a media file attribute or the "code" of the asset
+    "property": "media",      # this "property" parameter could either be a media file attribute ("media" here) or the "code" of the asset
     "locale": null,
     "channel": null
   },
@@ -50,7 +50,7 @@ The "source" of the extraction : the asset attribute we inspect to extract data
 The regex:
 `(?P<sku_id>.*)\\.`     save any character before the "." to a variable "sku_id"
 
-`(?:jpg|png|gif|jpeg)`  Only accept the following extensions: jpg, png, gif, jpeg
+`(?:jpg|png|gif|jpeg)`  Filename needs an extension, matching one of the following: jpg, png, gif, jpeg
 
 
 Now, go to "EDIT" on your asset family & click the "Product Link Rule" tab
