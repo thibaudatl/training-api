@@ -10,47 +10,47 @@ $client = $clientBuilder->buildAuthenticatedByPassword(
 	'5993e4eab'
 );
 
-//$product = json_decode(file_get_contents('/srv/pim/exercises/import products/product.json'), true);
-//
-//try{
-//    $response = $client->getProductApi()->upsertList($product);
-//} catch (\Akeneo\Pim\ApiClient\Exception\UnprocessableEntityHttpException $e) {
-//    echo "Unprocessable\n";
-//    echo $e->getMessage();
-//    foreach ($e->getResponseErrors() as $error) {
-//        echo $error['property'] ."\n";
-//        echo $error['message']."\n";
-//    }
-//} catch (\Akeneo\Pim\ApiClient\Exception\UnauthorizedHttpException $e) {
-//    echo "Unauthorized\n";
-//} catch (\Akeneo\Pim\ApiClient\Exception\NotFoundHttpException $e) {
-//    echo "Not Found\n";
-//} catch (Akeneo\Pim\ApiClient\Exception\ServerErrorHttpException $e) {
-//    if (is_iterable($e->getMessage())) {
-//        foreach($e->getMessage() as $error) {
-//            var_dump($error);
-//        }
-//    } else {
-//        var_dump($e->getResponse());
-//    }
-//}
-//
-//
-//
-//try {
-//    $client->getProductMediaFileApi()->create(
-//        "/srv/pim/exercises/akeneo.png",
-//        [
-//            "identifier" => "JIM_TEST_UPSERT",
-//         "attribute" => "leo_image",
-//         "scope" => null,
-//         "locale" => null
-//        ]
-//    );
-//} catch (\Akeneo\Pim\ApiClient\Exception\UnprocessableEntityHttpException $e) {
-//    echo "Unprocessable\n";
-//    var_dump($e->getMessage());
-//}
+$product = json_decode(file_get_contents('/srv/pim/exercises/import products/product.json'), true);
+
+try{
+    $response = $client->getProductApi()->upsertList($product);
+} catch (\Akeneo\Pim\ApiClient\Exception\UnprocessableEntityHttpException $e) {
+    echo "Unprocessable\n";
+    echo $e->getMessage();
+    foreach ($e->getResponseErrors() as $error) {
+        echo $error['property'] ."\n";
+        echo $error['message']."\n";
+    }
+} catch (\Akeneo\Pim\ApiClient\Exception\UnauthorizedHttpException $e) {
+    echo "Unauthorized\n";
+} catch (\Akeneo\Pim\ApiClient\Exception\NotFoundHttpException $e) {
+    echo "Not Found\n";
+} catch (Akeneo\Pim\ApiClient\Exception\ServerErrorHttpException $e) {
+    if (is_iterable($e->getMessage())) {
+        foreach($e->getMessage() as $error) {
+            var_dump($error);
+        }
+    } else {
+        var_dump($e->getResponse());
+    }
+}
+
+
+
+try {
+    $client->getProductMediaFileApi()->create(
+        "/srv/pim/exercises/akeneo.png",
+        [
+            "identifier" => "JIM_TEST_UPSERT",
+         "attribute" => "leo_image",
+         "scope" => null,
+         "locale" => null
+        ]
+    );
+} catch (\Akeneo\Pim\ApiClient\Exception\UnprocessableEntityHttpException $e) {
+    echo "Unprocessable\n";
+    var_dump($e->getMessage());
+}
 
 // Part on Assets
 
